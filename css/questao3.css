@@ -1,0 +1,22 @@
+#regraa{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+#regrab{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22;
+    color: green;
+}
+#regrac{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20;
+    font-style: italic;
+    color: blue;
+}
+#regrad{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14;
+    font-weight: 300;
+    font-weight: bold ;
+    color: yellow;
+}

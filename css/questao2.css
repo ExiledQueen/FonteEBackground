@@ -1,0 +1,35 @@
+.regraa{
+    background-color:aqua ;
+}
+.regrab{
+    background-color: rgb(112, 226, 112);
+}
+.regrac{
+    background-image: url(../img/flor.png);
+    background-size: 100px 80px;
+    background-repeat: repeat-x;
+}
+.regrad{
+    background-image: url(../img/flor.png);
+    background-size: 100px 80px;
+    background-repeat: repeat-y;
+    
+}
+.regrae{
+    background-image: url(../img/flor.png);
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+    
+}
+.regraf{
+    background-image: url(../img/flor.png);
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.regrag{
+    background-image: url(../img/flor.png);
+    background-size: 100px 80px;
+    background-color: yellow;
+    background-repeat: no-repeat;
+}
